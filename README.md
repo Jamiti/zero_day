@@ -1,1 +1,1 @@
-*i have set up my first file and repo*
+*This file is mandatory in projects*
